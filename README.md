@@ -1,2 +1,2 @@
-# ash-drawer-dashboard
+# cash-drawer-dashboard
 React dashboard for analyzing cash drawer transactions
